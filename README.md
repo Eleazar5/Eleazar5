@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eleazar5
+- 👋 Hi, I’m Eleazar
 - 👀 I’m interested in current technologies
 - 🌱 I’m currently learning python and c#
 - 💞️ I’m looking to collaborate on a machine learning project
